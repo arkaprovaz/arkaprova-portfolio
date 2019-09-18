@@ -1,22 +1,10 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
+###### https://arkaprova.tech/
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
-
-###### https://vinaysomawat.github.io/
-
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/web-dev/images/portfolio.png)
+![Image](https://github.com/arkaprovaz/arkaprova-portfolio/capture.jpg)
 ### About me
-* Competitive Programming Page
-* Web Designing Page
-* Software Development Page
-* Android Application Page
-* Technical Writing Page
-* Machine Learning Page
-* Open Source Page
-
 ### Hire Me banner
 ### Skills
 * Skills with progress bar
@@ -34,11 +22,11 @@ To setup the project on your local machine:
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/vinaysomawat/vinaysomawat.github.io.git`
+3. `git clone https://github.com/arkaprovaz/arkaprova-portfolio.git`
 
 To contribute to the project:
 
-1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
+1. Choose any open issue from [here](https://github.com/arkaprovaz/arkaprova-portfolio/issues). 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
