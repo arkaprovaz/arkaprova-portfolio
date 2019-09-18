@@ -136,7 +136,7 @@ figure {
     border-radius: 50%;
     border: 3px solid white;}
   #colorlib-aside .author-img:hover{
-    cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/happy.png"), default;
+    cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/happy.png"), auto;
     }
 #colorlib-aside h1{
     color: #000;
@@ -764,7 +764,8 @@ margin-left: 10px;}
   -ms-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
   -o-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
   box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
-  border-bottom: 2px solid #2c98f0; }
+  border-bottom: 2px solid #2c98f0; 
+  transition: 0.3s; }
   .services .icon2 {
     display: block;
     margin-bottom: 20px; }
@@ -795,6 +796,9 @@ margin-left: 10px;}
     border-bottom: 2px solid #19c23d; }
     .services.color-6 .icon2 i {
       color: #19c23d; }
+  .services:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.12),0 20px 50px 0 rgba(0,0,0,0.15);
+    }
 
 .services {
   margin-bottom: 30px;
