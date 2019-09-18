@@ -2,6 +2,7 @@
 Web Portfolio to showcase projects and skills in better manner. 
 
 ###### http://arkaprova.tech/
+###### http://arkaprovaz.github.io/arkaprova-portfolio
 
 ![Image](https://github.com/arkaprovaz/arkaprova-portfolio/blob/master/capture.jpg)
 ### About me
