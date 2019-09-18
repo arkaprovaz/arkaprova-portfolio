@@ -10,6 +10,11 @@
 * 	Template Style 
 *	Edit this section
 *
+*
+* Edited by Arkaprova Deb
+* Added custom animation for services2 Round Button, invert color
+*
+*
 * ======================================================= */
 body {
   font-family: "Quicksand", Arial, sans-serif;
@@ -130,6 +135,9 @@ figure {
     -ms-border-radius: 50%;
     border-radius: 50%;
     border: 3px solid white;}
+  #colorlib-aside .author-img:hover{
+    cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/happy.png"), default;
+    }
 #colorlib-aside h1{
     color: #000;
   font-family: 'Raleway', sans-serif;
@@ -511,9 +519,20 @@ margin-left: 10px;}
   .hire .btn-hire {
     color: #000;
     text-transform: uppercase;
+    font-size: 20px;
     letter-spacing: 1px;
     bordeR: 1px solid #000;
     padding: 2px 10px; }
+  .hire .btn-hire:hover {
+    background: #000;
+    color: #f9bf3f;
+    border-radius: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    bordeR: 1px solid #000;
+    padding: 2px 10px; }
+  
 
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0; }
@@ -769,9 +788,102 @@ margin-left: 10px;}
     .services.color-4 .icon2 i {
       color: #a84cb8; }
   .services.color-5 {
-    border-bottom: 2px solid #2fa499; }
+    border-bottom: 2px solid #2238f7; }
+    .services.color-5 .icon2 i {
+      color: #2238f7; }
   .services.color-6 {
-    border-bottom: 2px solid #4054b2; }
+    border-bottom: 2px solid #19c23d; }
+    .services.color-6 .icon2 i {
+      color: #19c23d; }
+
+.services {
+  margin-bottom: 30px;
+  padding: 1.5em;
+  -webkit-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  -moz-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  -ms-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  -o-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  border-bottom: 2px solid #2c98f0; }
+  .services .icon2 {
+    display: block;
+    margin-bottom: 20px; }
+    .services .icon2 i {
+      font-size: 30px;
+      color: #2c98f0; }
+  .services h3 {
+    font-family: "Quicksand", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500; }
+  .services.color-2 {
+    border-bottom: 2px solid #ec5453; }
+    .services.color-2 .icon2 i {
+      color: #ec5453; }
+  .services.color-3 {
+    border-bottom: 2px solid #f9bf3f; }
+    .services.color-3 .icon2 i {
+      color: #f9bf3f; }
+  .services.color-4 {
+    border-bottom: 2px solid #a84cb8; }
+    .services.color-4 .icon2 i {
+      color: #a84cb8; }
+  .services.color-5 {
+    border-bottom: 2px solid #2238f7; }
+    .services.color-5 .icon2 i {
+      color: #2238f7; }
+  .services.color-6 {
+    border-bottom: 2px solid #19c23d; }
+    .services.color-6 .icon2 i {
+      color: #19c23d; }
+
+
+.services2 {
+  margin-bottom: 30px;
+  padding: 1.5em;
+  -webkit-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  -moz-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  -ms-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  -o-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
+  border-bottom: 2px solid #2c98f0; 
+  transition: 0.3s;}
+  .services2 .icon2 {
+    display: block;
+    margin-bottom: 20px; }
+  .services2 .icon2 i {
+    font-size: 30px;
+    color: #2c98f0; }
+  .services2 h3 {
+    font-family: "Quicksand", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500; }
+  .services2.color-2 {
+    border-bottom: 2px solid #ec5453; }
+      .services2.color-2 .icon2 i {
+          color: #ec5453; }
+  .services2.color-3 {
+    border-bottom: 2px solid #f9bf3f; }
+      .services2.color-3 .icon2 i {
+          color: #f9bf3f; }
+  .services2.color-4 {
+    border-bottom: 2px solid #a84cb8; }
+      .services2.color-4 .icon2 i {
+           color: #a84cb8; }
+  .services2.color-5 {
+    border-bottom: 2px solid #2238f7; }
+      .services2.color-5 .icon2 i {
+           color: #2238f7; }
+  .services2.color-6 {
+    border-bottom: 2px solid #19c23d; }
+      .services2.color-6 .icon2 i {
+           color: #19c23d; }
+  .services2:hover{
+    border-radius: 30px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.30),0 20px 50px 0 rgba(0,0,0,0.30);
+    }
+
+
+
 
 .services {
   margin-bottom: 80px;
