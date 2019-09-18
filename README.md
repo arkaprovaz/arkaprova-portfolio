@@ -3,7 +3,7 @@ Web Portfolio to showcase projects and skills in better manner.
 
 ###### https://arkaprova.tech/
 
-![Image](https://github.com/arkaprovaz/arkaprova-portfolio/capture.jpg)
+![Image](https://github.com/arkaprovaz/arkaprova-portfolio/blob/master/capture.jpg)
 ### About me
 ### Hire Me banner
 ### Skills
